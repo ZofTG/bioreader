@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "bioreader"
+version = "0.1.0"
+description = ""
+authors = ["ZofTG <lzoffoli@technogym.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+labio = {git = "https://github.com/ZofTG/labio.git"}
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,4 @@
+git+https://github.com/ZofTG/labio.git
+pandas
+numpy
+pyinstaller

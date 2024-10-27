@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "bioreader"
-version = "0.1.0"
+version = "14"
 description = ""
 authors = ["ZofTG <lzoffoli@technogym.com>"]
 readme = "README.md"
